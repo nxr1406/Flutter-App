@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Efiko Premium",
+    "slug": "efiko-premium",
+    "version": "3.2.1",
+    "size": "48 MB",
+    "developer": "Efiko Studios",
+    "category": "Education",
+    "icon": "/icons/efiko.png",
+    "telegram": "https://t.me/nxrmod/101",
+    "description": "Efiko Premium is an AI-powered study assistant that helps students learn faster and smarter. With access to millions of past questions, detailed explanations, and personalized study plans, it's the ultimate academic companion for Nigerian students.",
+    "features": [
+      "Premium subscription unlocked",
+      "All subjects unlocked",
+      "No ads or interruptions",
+      "Offline mode enabled",
+      "Unlimited past questions",
+      "AI tutor fully accessible"
+    ],
+    "rating": 4.8,
+    "downloads": "500K+"
+  },
+  {
+    "name": "Spotify Premium",
+    "slug": "spotify-premium",
+    "version": "8.9.14",
+    "size": "35 MB",
+    "developer": "Spotify AB",
+    "category": "Music",
+    "icon": "/icons/spotify.png",
+    "telegram": "https://t.me/nxrmod/102",
+    "description": "Stream millions of songs and podcasts with Spotify Premium MOD. Enjoy unlimited skips, high-quality audio, and offline downloads — all without a subscription.",
+    "features": [
+      "Premium unlocked",
+      "Unlimited skips",
+      "No ads",
+      "Offline downloads enabled",
+      "Extreme audio quality (320kbps)",
+      "Seek bar unlocked"
+    ],
+    "rating": 4.9,
+    "downloads": "10M+"
+  },
+  {
+    "name": "YouTube Vanced",
+    "slug": "youtube-vanced",
+    "version": "19.16.39",
+    "size": "82 MB",
+    "developer": "Google LLC",
+    "category": "Video",
+    "icon": "/icons/youtube.png",
+    "telegram": "https://t.me/nxrmod/103",
+    "description": "YouTube Vanced is the ultimate modded YouTube experience. Watch videos in the background, block all ads, and get access to YouTube Premium features for free.",
+    "features": [
+      "Ad-free experience",
+      "Background playback",
+      "Picture-in-picture mode",
+      "SponsorBlock integration",
+      "AMOLED dark theme",
+      "VP9 codec support"
+    ],
+    "rating": 4.7,
+    "downloads": "50M+"
+  },
+  {
+    "name": "Canva Pro",
+    "slug": "canva-pro",
+    "version": "2.245.0",
+    "size": "65 MB",
+    "developer": "Canva Pty Ltd",
+    "category": "Design",
+    "icon": "/icons/canva.png",
+    "telegram": "https://t.me/nxrmod/104",
+    "description": "Design anything with Canva Pro MOD. Get full access to premium templates, fonts, stock images, and the Magic AI tools — all completely unlocked.",
+    "features": [
+      "Pro subscription unlocked",
+      "All premium templates",
+      "Magic AI tools enabled",
+      "Background remover unlocked",
+      "Premium fonts and elements",
+      "Brand kit accessible"
+    ],
+    "rating": 4.6,
+    "downloads": "5M+"
+  },
+  {
+    "name": "PicsArt Gold",
+    "slug": "picsart-gold",
+    "version": "24.8.5",
+    "size": "72 MB",
+    "developer": "PicsArt Inc.",
+    "category": "Photography",
+    "icon": "/icons/picsart.png",
+    "telegram": "https://t.me/nxrmod/105",
+    "description": "PicsArt Gold MOD gives you full access to the world's largest creative platform. Edit photos and videos with professional tools, AI effects, and thousands of premium stickers.",
+    "features": [
+      "Gold membership unlocked",
+      "All AI tools enabled",
+      "No watermark",
+      "Premium stickers & filters",
+      "Unlimited storage",
+      "All effects unlocked"
+    ],
+    "rating": 4.5,
+    "downloads": "2M+"
+  },
+  {
+    "name": "Netflix Premium",
+    "slug": "netflix-premium",
+    "version": "8.58.0",
+    "size": "44 MB",
+    "developer": "Netflix Inc.",
+    "category": "Entertainment",
+    "icon": "/icons/netflix.png",
+    "telegram": "https://t.me/nxrmod/106",
+    "description": "Watch all your favorite shows and movies in 4K Ultra HD with Netflix Premium MOD. Stream without restrictions on multiple screens simultaneously.",
+    "features": [
+      "Premium plan unlocked",
+      "4K Ultra HD streaming",
+      "Multiple screen support",
+      "Offline downloads enabled",
+      "HDR content accessible",
+      "Region-lock bypassed"
+    ],
+    "rating": 4.8,
+    "downloads": "8M+"
+  },
+  {
+    "name": "Duolingo Super",
+    "slug": "duolingo-super",
+    "version": "5.158.4",
+    "size": "28 MB",
+    "developer": "Duolingo",
+    "category": "Education",
+    "icon": "/icons/duolingo.png",
+    "telegram": "https://t.me/nxrmod/107",
+    "description": "Learn languages faster with Duolingo Super MOD. Get unlimited hearts, skip cooldowns, and access all Super features to accelerate your learning journey.",
+    "features": [
+      "Super subscription unlocked",
+      "Unlimited hearts",
+      "No mistake cooldowns",
+      "Offline lessons",
+      "Ad-free experience",
+      "Progress quiz unlocked"
+    ],
+    "rating": 4.7,
+    "downloads": "3M+"
+  },
+  {
+    "name": "Termux Enhanced",
+    "slug": "termux-enhanced",
+    "version": "0.118.1",
+    "size": "19 MB",
+    "developer": "Termux Project",
+    "category": "Tools",
+    "icon": "/icons/termux.png",
+    "telegram": "https://t.me/nxrmod/108",
+    "description": "Termux Enhanced is a powerful terminal emulator and Linux environment for Android. This modded version comes pre-loaded with essential tools and packages for developers and security researchers.",
+    "features": [
+      "Pre-installed hacking tools",
+      "Root support enabled",
+      "Extended package repository",
+      "Custom themes included",
+      "SSH server pre-configured",
+      "Python & Node.js pre-installed"
+    ],
+    "rating": 4.4,
+    "downloads": "1M+"
+  }
+]
