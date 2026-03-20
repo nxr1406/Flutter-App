@@ -1,0 +1,158 @@
+[
+  {
+    "id": "1",
+    "slug": "lumiere-beauty-brand",
+    "title": "Lumière Beauty Brand",
+    "shortDescription": "A complete digital identity redesign for a luxury French skincare brand.",
+    "description": "We transformed Lumière's online presence with a sophisticated e-commerce platform and brand identity system. The project included a full UX audit, custom component library, and conversion-optimized checkout flow that increased sales by 34%.",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=800&q=80",
+      "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=800&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=800&q=80"
+    ],
+    "technologies": ["Next.js", "Tailwind CSS", "Shopify", "Figma", "TypeScript"],
+    "category": "E-Commerce",
+    "client": "Lumière Paris",
+    "price": 700,
+    "duration": "3 weeks",
+    "year": 2024,
+    "testimonial": {
+      "text": "NXR Corporation exceeded every expectation. Our website now perfectly captures the luxury essence of our brand, and the results speak for themselves.",
+      "author": "Sophie Marceau",
+      "role": "Creative Director, Lumière Paris",
+      "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=200&q=80"
+    },
+    "featured": true
+  },
+  {
+    "id": "2",
+    "slug": "verde-wellness-platform",
+    "title": "Verde Wellness Platform",
+    "shortDescription": "Holistic wellness booking and content platform for a boutique studio.",
+    "description": "Verde needed a seamless digital hub connecting yoga, nutrition, and meditation services. We built a fully integrated booking system with personalized dashboards, subscription management, and a content library — all beautifully wrapped in a serene, nature-inspired design.",
+    "image": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&q=80",
+      "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&q=80"
+    ],
+    "technologies": ["React", "Node.js", "PostgreSQL", "Stripe", "Tailwind CSS"],
+    "category": "Web Application",
+    "client": "Verde Studio",
+    "price": 700,
+    "duration": "4 weeks",
+    "year": 2024,
+    "testimonial": {
+      "text": "The platform NXR built has fundamentally changed how we operate. Client bookings increased 60% in the first month alone.",
+      "author": "Amara Osei",
+      "role": "Founder, Verde Studio",
+      "avatar": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=200&q=80"
+    },
+    "featured": true
+  },
+  {
+    "id": "3",
+    "slug": "atlas-architecture-portfolio",
+    "title": "Atlas Architecture Portfolio",
+    "shortDescription": "Award-winning portfolio site for a prestigious architecture firm.",
+    "description": "Atlas Architecture required a digital canvas as refined as their buildings. We crafted an immersive, scroll-based storytelling experience with full-bleed project photography, smooth transitions, and a bespoke CMS that allows the team to publish new projects effortlessly.",
+    "image": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800&q=80",
+      "https://images.unsplash.com/photo-1536895058696-a69b1c7ba34f?w=800&q=80",
+      "https://images.unsplash.com/photo-1431576901776-e539bd916ba2?w=800&q=80"
+    ],
+    "technologies": ["Next.js", "Framer Motion", "Sanity CMS", "TypeScript", "GSAP"],
+    "category": "Portfolio",
+    "client": "Atlas Architecture",
+    "price": 700,
+    "duration": "3 weeks",
+    "year": 2024,
+    "testimonial": {
+      "text": "We have won three new major projects directly attributed to prospects discovering us through our new website. Exceptional work.",
+      "author": "Marcus Chen",
+      "role": "Principal Architect, Atlas",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80"
+    },
+    "featured": true
+  },
+  {
+    "id": "4",
+    "slug": "nova-fintech-dashboard",
+    "title": "Nova FinTech Dashboard",
+    "shortDescription": "Real-time financial analytics dashboard for a growing fintech startup.",
+    "description": "Nova's team needed a powerful yet intuitive dashboard to visualize complex financial data. We built a real-time analytics platform with interactive charts, customizable widgets, role-based access controls, and a clean design language that makes data genuinely enjoyable to explore.",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+      "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&q=80"
+    ],
+    "technologies": ["React", "D3.js", "FastAPI", "Redis", "PostgreSQL"],
+    "category": "Dashboard",
+    "client": "Nova Financial",
+    "price": 700,
+    "duration": "5 weeks",
+    "year": 2024,
+    "testimonial": {
+      "text": "The dashboard NXR built saves our team hours every week. It's intuitive, fast, and our investors love it during presentations.",
+      "author": "David Park",
+      "role": "CTO, Nova Financial",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80"
+    },
+    "featured": false
+  },
+  {
+    "id": "5",
+    "slug": "soleil-restaurant-website",
+    "title": "Soleil Restaurant Website",
+    "shortDescription": "Stunning online presence and reservation system for a fine dining restaurant.",
+    "description": "Soleil Restaurant deserved a website as exquisite as their cuisine. We created an immersive dining experience online — complete with animated menu reveals, real-time OpenTable integration, private event inquiry forms, and a story-driven design that makes guests hungry before they even arrive.",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+      "https://images.unsplash.com/photo-1424847651672-bf20a4b0982b?w=800&q=80",
+      "https://images.unsplash.com/photo-1440974774702-56e0f1c58839?w=800&q=80"
+    ],
+    "technologies": ["Next.js", "Framer Motion", "OpenTable API", "Cloudinary", "TypeScript"],
+    "category": "Hospitality",
+    "client": "Soleil Restaurant",
+    "price": 700,
+    "duration": "3 weeks",
+    "year": 2024,
+    "testimonial": {
+      "text": "Reservations via our website went up 80% after launch. The NXR team truly understood our brand and translated it beautifully online.",
+      "author": "Isabelle Laurent",
+      "role": "Owner, Soleil Restaurant",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&q=80"
+    },
+    "featured": false
+  },
+  {
+    "id": "6",
+    "slug": "bloom-event-planning",
+    "title": "Bloom Event Planning",
+    "shortDescription": "Premium event planning brand with interactive inquiry and gallery system.",
+    "description": "Bloom Events needed a platform that could showcase their gorgeous events while converting visitors into clients. We delivered a stunning gallery-forward website with a smart inquiry wizard, vendor showcase, real testimonials, and an Instagram-integrated feed that keeps the site feeling fresh.",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&q=80",
+      "https://images.unsplash.com/photo-1478146059778-26028b07395a?w=800&q=80",
+      "https://images.unsplash.com/photo-1511285560929-80b456503681?w=800&q=80"
+    ],
+    "technologies": ["Next.js", "Tailwind CSS", "Prisma", "Instagram API", "Vercel"],
+    "category": "Events",
+    "client": "Bloom Events Co.",
+    "price": 700,
+    "duration": "3 weeks",
+    "year": 2025,
+    "testimonial": {
+      "text": "Every bride who visits our site says it's the most beautiful event planning website they've seen. NXR knocked it out of the park.",
+      "author": "Naomi Williams",
+      "role": "Lead Planner, Bloom Events",
+      "avatar": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=200&q=80"
+    },
+    "featured": false
+  }
+]
